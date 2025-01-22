@@ -82,6 +82,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish1591&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish1591&" alt="GitHub Streak" />
-</p>
